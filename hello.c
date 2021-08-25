@@ -1,7 +1,7 @@
 /**
- * Author: Chris Bourke
+ * Author: Quan Do 
  *         cbourke@cse.unl.edu
- * Date: 2020/03/26
+ * Date: 2021/08/24
  *
  * A simple hello world program in C
  *
@@ -11,7 +11,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Quan Do\n");
 
   return 0;
 }
